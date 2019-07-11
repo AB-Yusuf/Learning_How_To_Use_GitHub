@@ -4,4 +4,8 @@ Additional texts are being added(Added directly to the master Branch).
 
 Creating a new Branch called Adjustments (Added from Adjustment Branch)
 
+I created a new Branch called New Adjustment and in it, I will be adding numbers.
+
+1 2 3 4  5 6 7 8 9 0
+
 
